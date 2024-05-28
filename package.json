@@ -1,0 +1,16 @@
+{
+    "name": "PlataformaFrontend",
+    "version": "1.0.0",
+    "scripts" : {
+        "ng": "ng",
+        "start": "ng server --proxy-config proxy.config.json",
+        "build": "ng build",
+        "test": "ng test",
+        "lint": "ng lint",
+        "e2e": "ng e2e"
+    },
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "CAMILO ACEVEDO",
+    "contributors": [],
+    "dependencies": {}
+}
